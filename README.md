@@ -20,11 +20,11 @@ Esta API foi desenvolvida para a inserção de uma demanda que contém até 10 p
 
 ## Iniciando Banco de Dados com Docker
 
-1 - Navegue para a pasta backend (cmd: cd backend) e execute o comando (cmd: docker compose up) *
+1 - Navegue para a pasta do projeto (cmd: cd folder) e execute o comando (cmd: docker compose up) *
 
-*Tenha a docker instaladas em seu dispositivo e execute inicialize-o antes de executar o comando docker.
+*Tenha a docker instalada em seu dispositivo e execute inicialize-o antes de executar o comando docker.
 
-BONUS: Abra o PgAdmin em [http://localhost:8090](http://localhost:8090) no seu navegador
+BONUS: Abra o PhpMyAdmin em [http://localhost:8090](http://localhost:8090) no seu navegador
 
 
 *Tenha o JDK com a Versão Java 8 e o Maven com as variáveis configuradas em seu ambiente.
